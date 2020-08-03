@@ -34,7 +34,7 @@ Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
 
 ## Challenge Summary
 The analysis of counties show that:<br>
-There were three counties where people voted
+There were three counties where people voted <br>
 The name of the counties were:<br>
 * Jefferson
 * Denver
